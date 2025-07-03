@@ -1,6 +1,8 @@
 # NLP_SS25
 Track A (Multi-label Emotion Detection) : 2025 SemEval Shared Task 11
 
+Team Members: Pooja Negi, Atul Santhosh, Yadhukrishnan Pandiyatt, Vimal Kottamulla Valappil, Tony Sebastian
+
 # Steps to run the python file
 1. Download the best model from hessen box and unzip the file with the same folder, so best_model folder is present in the root directory
 
