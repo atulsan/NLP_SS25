@@ -3,8 +3,9 @@ Track A (Multi-label Emotion Detection) : 2025 SemEval Shared Task 11
 
 # Steps to run the python file
 1. Download the best model from hessen box and unzip the file with the same folder, so best_model folder is present in the root directory
-    https://hessenbox.uni-marburg.de/getlink/fiKPpZCajLTYqUkxRyiB5n/best_model.zip
-    (click download button)
+
+https://hessenbox.uni-marburg.de/getlink/fiKPpZCajLTYqUkxRyiB5n/best_model.zip
+(click download button)
 
 2. Install all dependencies
 ```shell
