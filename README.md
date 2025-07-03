@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```shell
 python main.py train
 ```
-4. For training the model (can be skipped if model is downloaded)
+4. For predicting using the model (replace input_file.csv with your test.csv)
 ```shell
 python main.py --input_csv input_file.csv predict
 ``` 
